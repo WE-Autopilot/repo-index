@@ -1,4 +1,6 @@
 # WEAP REPO INDEX
+This file contains an index of all the **major** repositories for any single year of WEAP development.
+Minor repositories may not be included or may be dead.
 
 ## 2025-26
 All of WEAP's  repositories for the 2025-2026 year.
